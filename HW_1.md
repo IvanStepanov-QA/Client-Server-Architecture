@@ -1,7 +1,7 @@
 Video: https://drive.google.com/file/d/12rl5hWRu2T5656mnPvI6RmZ_zKIkAjmO/view?usp=sharing
+
 #### Задание
-    Открыть сайт http://itcareer.pythonanywhere.com/
- 1. Открыть Chrome DevTools
+ 1. Открыть сайт http://itcareer.pythonanywhere.com/. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
  4. Включить режим мобильного деввайса (Device Mode)
