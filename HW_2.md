@@ -5,6 +5,7 @@
 
 Форма для регистрации http://itcareer.pythonanywhere.com/
 Поля обязательные для заполнения: Name, Email, Password
+
 **Поле Name:**
 > 
 > Принимает латинские буквы, цифры, спец. символы только ‘–‘, ‘_’ и пробел
@@ -25,8 +26,8 @@
 **Поле Email:**
 > Ознакомиться со стандартами
 >    
->                                 https://tools.ietf.org/html/rfc3696#page-5
->                                 https://tools.ietf.org/html/rfc2822#section-3.4.1
+>https://tools.ietf.org/html/rfc3696#page-5
+>https://tools.ietf.org/html/rfc2822#section-3.4.1
 
 **Поле Password:**
 > Min 5 символов, max 16
